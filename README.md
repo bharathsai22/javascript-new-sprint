@@ -1,0 +1,1 @@
+This quiz application features a responsive design with a countdown timer, multiple-choice questions, and a real-time score display. It provides an engaging user experience with interactive styling and animations.
